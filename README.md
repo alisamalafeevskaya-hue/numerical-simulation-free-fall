@@ -72,10 +72,10 @@ for any chosen time moment within the simulated interval.
 
 ## Project Structure
 
-src/ - source code
-README.md - project description
-LICENSE - license information
-.gitignore - ignored files
+- src/ - source code
+- README.md - project description
+- LICENSE - license information
+- .gitignore - ignored files
 
 ---
 
